@@ -96,7 +96,7 @@ public class Wen8
     }
 
     Wen8(int a)
-    {
+    { 
         System.out.println("JAVA is awesome");
     }
 
