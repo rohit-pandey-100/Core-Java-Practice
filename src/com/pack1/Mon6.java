@@ -25,7 +25,8 @@ public class Mon6
 		
 	
 		System.out.println("\nStatic Variable Y:"+y);// By using the identifier name
-		System.out.println("\nStatic Variable Y:"+new Mon6().y);// By using the Class obj Name
+		new Mon6();
+		System.out.println("\nStatic Variable Y:"+Mon6.y);// By using the Class obj Name
 		System.out.println("\nStatic Variable Y:"+Mon6.y);// By using the respective Class Name
 		
 		
