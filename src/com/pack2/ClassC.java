@@ -26,7 +26,7 @@ public class ClassC {
 	 }
 	 
 	 public static void main(String[] args) {
-		 ClassC test = new ClassC();
+		 //ClassC test = new ClassC();
 		 //ClassC test1 = new ClassC(10);
 	 }
 	 }
