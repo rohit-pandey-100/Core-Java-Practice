@@ -43,7 +43,7 @@ public class Mon20
 	{
 		System.out.println("---------meth3()---------------");
 		
-		if(!((i==10) && new Mon20().meth4()))
+		if(!((i==10) && new Mon20().meth4(10)))
 		{
 			System.out.println("if block executed");
 		}
