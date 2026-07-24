@@ -19,5 +19,7 @@ public class CalculateSurface
 		double result=CalculateSurface.CalcualteArea(r,h);
 		
 		System.out.printf("Total Surface Area of the cylinder is: %.3f", result);
+		
+		sc.close();
 	}
 }
