@@ -69,10 +69,10 @@ public class Mon20
 		{
 			System.out.println("if block executed");
 		}
-		else // thsi is the resion ther e give to the wo=arning by the compiler
+		/*else // thsi is the resion ther e give to the woarning by the compiler
 		{
 			System.out.println("else block executed");
-		}
+		}*/
 		System.out.println("Meth5() execution completed");
 	}
 	void meth6(int i)

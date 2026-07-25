@@ -13,7 +13,7 @@ public class Fri18
 		
 		System.out.println("Int PDT i: "+i);
 		System.out.println("Integer WCO ival1: "+ival1);
-		System.out.println("Integer WCO ival2: "+ival2);
+		//System.out.println("Integer WCO ival2: "+ival2);
 		System.out.println("Integer WCO ival3: "+ival3);
 		
 		char c='A';
@@ -23,7 +23,7 @@ public class Fri18
 		
 		System.out.println("\nChar PDT i: "+c);
 		System.out.println("Character WCO cval1: "+cval1);
-		System.out.println("Character WCO cval2: "+cval2);
+		//System.out.println("Character WCO cval2: "+cval2);
 		System.out.println("Character WCO cval3: "+cval3);
 		
 		
