@@ -84,7 +84,7 @@ package com.pack2;
 
 public class ClassD
 {
-    void meth1(int a, int b, int c)
+    protected void meth1(int a, int b, int c)
     {
         if (a > b)
         {
