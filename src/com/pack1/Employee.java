@@ -23,7 +23,7 @@ public class Employee
         // Employee 1 details
         System.out.print("Enter Employee 1 ID: ");
         emp1.empId = Integer.parseInt(sc.nextLine());
-        sc.nextLine(); // Clear buffer
+        //sc.nextLine(); // Clear buffer
 
         System.out.print("Enter Employee 1 Name: ");
         emp1.empName = sc.nextLine();
@@ -31,7 +31,7 @@ public class Employee
         // Employee 2 details
         System.out.print("Enter Employee 2 ID: ");
         emp2.empId = Integer.parseInt(sc.nextLine());
-        sc.nextLine(); // Clear buffer
+        //sc.nextLine(); // Clear buffer
 
         System.out.print("Enter Employee 2 Name: ");
         emp2.empName = sc.nextLine();
