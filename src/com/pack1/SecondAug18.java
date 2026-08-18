@@ -2,7 +2,7 @@ package com.pack1;
 
 public class SecondAug18 extends Aug18
 {
-	void meth2()
+	public void meth2()
 	{
 		System.out.println("Meth2() Called");
 		System.out.println("Achiving the properties of another class methoed");
