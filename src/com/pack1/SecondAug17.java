@@ -35,7 +35,7 @@ public class SecondAug17
 		
 		System.out.println("Emp Name: "+obj.getEmpName());
 		System.out.println("Emp Id: "+obj.getEmpId());
-		System.out.println("Emp Dept Name: "+obj.getDeptName());
+		System.out.println("Emp Dept Name: "+obj.getDeptName() );
 	}
 	public static void main(String[] args) {
 		SecondAug17 obj=new SecondAug17();
