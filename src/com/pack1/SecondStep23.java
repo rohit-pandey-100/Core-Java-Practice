@@ -28,7 +28,13 @@ public class SecondStep23
 			System.out.println(i.next());
 		}
 		System.out.println("-------------------------------------------");
-		Collections.sort(al);
+		Collections.sort(al); //Comparable
+		Collections.sort(al, new ThirdStep23());//Comparator
+		Iterator<Step23> i2=al.iterator();
+		while(i2.hasNext())
+		{
+			System.out.println(i2.next());
+		}
 	}
 	public static void main(String[] args) {
 		SecondStep23 obj=new SecondStep23();
